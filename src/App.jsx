@@ -12,7 +12,7 @@ function App() {
           <span className='end'>Выпускной через:</span>
           <Countdown targetDate={'2024-06-28T17:00'}/>
           <p className='text-block'>
-            <span className='title'>Любимая Анастасия Юрьевна!</span>
+            <span className='title'>Любимая Татьяна Алексеевна!</span>
             <span className='subtitle'>Исп-41 приглашает Вас разделить с нами выпускной вечер)</span>
           </p>
           <div className='place'>
